@@ -1,0 +1,4 @@
+.env
+venv/
+cms.db
+__pycache__
